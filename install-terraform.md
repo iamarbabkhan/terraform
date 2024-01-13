@@ -1,4 +1,5 @@
 ## Install Terraform 
+
 * `sudo apt-get update && sudo apt-get install -y gnupg software-properties-common`
 * `wget -O- https://apt.releases.hashicorp.com/gpg | \
 gpg --dearmor | \
@@ -16,6 +17,9 @@ sudo tee /etc/apt/sources.list.d/hashicorp.list`
 * `terraform -help plan`
 * `touch ~/.bashrc`
 * `terraform -install-autocomplete`
+
+## AWS Configure
+
 * `sudo apt install awscli`
 * `aws configure`
 1. AWS Access Key ID [None]: YOUR_ACCESS_KEY
@@ -23,7 +27,8 @@ sudo tee /etc/apt/sources.list.d/hashicorp.list`
 3. Default region name [None]: YOUR_DEFAULT_REGION
 4. Default output format [None]: json
 
-Create main.tf file
+#### Create main.tf file
+* `vim main.tf`
 * `terraform init`
 * `terraform apply`
 * `terraform destroy`

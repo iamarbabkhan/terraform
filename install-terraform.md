@@ -22,9 +22,9 @@ sudo tee /etc/apt/sources.list.d/hashicorp.list`
 
 * `sudo apt install awscli`
 * `aws configure`
-1. AWS Access Key ID [None]: YOUR_ACCESS_KEY
-2. AWS Secret Access Key [None]: YOUR_SECRET_KEY
-3. Default region name [None]: YOUR_DEFAULT_REGION
+1. AWS Access Key ID [None]: ACCESS_KEY
+2. AWS Secret Access Key [None]: SECRET_ACCESS_KEY
+3. Default region name [None]: REGION
 4. Default output format [None]: json
 
 #### Create main.tf file

@@ -5,8 +5,7 @@ Infrastructure as Code (IaC) is the managing and provisioning of infrastructure 
 Terraform is an infrastructure as code tool that lets you build, change, and version cloud and on-premises resources safely and efficiently.
 
 ### Why Terraform
-* Manage any Infrastructure
-* Track your Infrastructure
+* Manage and track any Infrastructure
 * Support multi-cloud Infrastructure deployment
 * Automate changes
 * Standardize configuration

@@ -11,6 +11,9 @@ Terraform is an infrastructure as code tool that lets you build, change, and ver
 * Standardize configuration
 * Collaboration
 
+### Terraform Architecture
+![architecture](https://developer.hashicorp.com/_next/image?url=https%3A%2F%2Fcontent.hashicorp.com%2Fapi%2Fassets%3Fproduct%3Dterraform%26version%3Drefs%252Fheads%252Fv1.6%26asset%3Dwebsite%252Fimg%252Fdocs%252Fintro-terraform-workflow.png%26width%3D2038%26height%3D1773&w=3840&q=75)
+
 ### Terraform Commands
 * initialize: `terraform init`
 * dry run: `terraform plan`

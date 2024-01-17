@@ -29,6 +29,9 @@ sudo tee /etc/apt/sources.list.d/hashicorp.list`
 
 #### Create main.tf file
 * `vim main.tf`
+
+#### Command after creation of main.tf file
 * `terraform init`
+* `terraform plan`
 * `terraform apply`
 * `terraform destroy`

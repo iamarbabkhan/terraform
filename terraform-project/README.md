@@ -1,5 +1,4 @@
-## How to create Ec2 instances using terraform in easy way
-
+## How to create Ec2 instances using terraform 
 #### Pre-requesite:
 1. aws account
 2. iam user in aws

@@ -27,7 +27,7 @@ sudo tee /etc/apt/sources.list.d/hashicorp.list`
 3. Default region name [None]: REGION
 4. Default output format [None]: json
 
-#### Create main.tf file
+#### Create Configuration File main.tf
 * `vim main.tf`
 
 #### Command after creation of main.tf file

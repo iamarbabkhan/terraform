@@ -9,7 +9,7 @@
 * `ssh -i test.pem ubuntu@50.19.179.228`
 
 ![tf.png](https://i.postimg.cc/pr6hSmn4/tf.png)
-#### Insatall terraform
+#### Install terraform
 * `sudo apt-get update && sudo apt-get install -y gnupg software-properties-common`
 
 ![Screenshot-2024-01-19-234612.png](https://i.postimg.cc/B6gJYbz3/Screenshot-2024-01-19-234612.png)

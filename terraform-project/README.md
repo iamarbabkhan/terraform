@@ -48,10 +48,10 @@ sudo tee /usr/share/keyrings/hashicorp-archive-keyring.gpg`
   
 ![Screenshot-2024-01-19-235308.png](https://i.postimg.cc/vBT7PgqF/Screenshot-2024-01-19-235308.png)
 ### Aws Configuration
-- Note: I'll delete the access key and secret access key of aws(IAM) user after the completion of project
 * `aws configure`
   
 ![Screenshot-2024-01-19-235442.png](https://i.postimg.cc/yNkXj3rq/Screenshot-2024-01-19-235442.png)
+- Note: I'll delete the access key and secret access key of aws(IAM) user after the completion of project
 ### Create configuration file(main.tf)
 * `vim main.tf`
   

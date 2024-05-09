@@ -22,4 +22,5 @@ Terraform is an infrastructure as code tool that lets you build, change, and ver
 
 ### Terraform State
 1. local state/backend: it stores information about the infrastructure on the machine 
-2. remote state/backend: it stores information about the infrastructure on the remote location. ex: aws,azure,gcp,terraform cloud
+2. remote state/backend: it stores information about the infrastructure on the remote location.
+**Example:** aws,azure,gcp,terraform cloud
